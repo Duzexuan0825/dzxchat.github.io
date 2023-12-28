@@ -1,7 +1,7 @@
 // WebSocket 连接地址
-var wsAddress = 'ws://172.31.240.1:2764/';
+// var wsAddress = 'ws://172.31.240.1:2764/';
 // var wsAddress = 'ws://127.0.0.1:2764/';
-// var wsAddress = 'wss://ws.crosst.chat:35197/';
+var wsAddress = 'wss://ws.crosst.chat:35197/';
 
 // 客户端信息
 var clientName = '[十字街网页版](https://crosst.chat/)';
